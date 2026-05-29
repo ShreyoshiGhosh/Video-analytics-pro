@@ -6,7 +6,7 @@ A real-time computer vision and IoT analytics platform designed for intelligent 
 
 ## 📸 Screenshots
 
-*Below are placeholders for your screenshots. You can place your image files in a folder named `screenshots/` in the root of your project directory.*
+
 
 | Dashboard Overview | Live Video Feed |
 | :---: | :---: |
