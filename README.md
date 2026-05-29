@@ -12,7 +12,7 @@ A real-time computer vision and IoT analytics platform designed for intelligent 
 | :---: | :---: |
 | ![Dashboard](screenshots/ss1.png) | ![Video Feed](screenshots/video1.png) |
 
-| Real-time Charts | Alert Configurations |
+| Alert Configurations | Alert Configurations |
 | :---: | :---: |
 | ![Analytics](screenshots/ss6.png) | ![Configuration](screenshots/ss2.png) |
 
